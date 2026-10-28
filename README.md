@@ -4,6 +4,7 @@
 **Creator:** Ike Christopher Ugochukwu  
 **Document version:** 1.0  
 **Date:** October 2026
+**Behance project:**  https://www.behance.net/gallery/257696843/g-An-War-of-the-Four-Market-Days?platform=direct
 
 > **Four days. One truth. No fifth.**  
 > *Onye kwe, chi ya ekwe.*
@@ -85,7 +86,7 @@ The repository contains the Story Bible, Game Design Document, and concept prese
 
 ## Visual Portfolio
 
-**Behance project:** [Insert your published Behance URL here]
+**Behance project:**  https://www.behance.net/gallery/257696843/g-An-War-of-the-Four-Market-Days?platform=direct
 
 ## Project Status
 
