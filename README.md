@@ -6,6 +6,7 @@
 **Date:** October 2026
 
 visit behance for the visuals
+
 **Behance project:**  https://www.behance.net/gallery/257696843/g-An-War-of-the-Four-Market-Days?platform=direct
 
 > **Four days. One truth. No fifth.**  
